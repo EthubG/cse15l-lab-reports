@@ -61,7 +61,6 @@ The output is not an error.
 1. `cat` with no arguments:
 ```
 [user@sahara ~/lecture1]$ cat
-
 ```
 Working Directory: `lecture1`  
 There is no output because there were no arguments provided to the cat command.  
