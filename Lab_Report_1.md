@@ -18,7 +18,7 @@ Working Directory: `lecture 1`
 There is no output because the `cd` command does not ouput anything. The working directory was changed to messages because the argument for the change directory command was the path for the messages directory.
 The output is not an error. 
 
-3. cd with a path to a file:
+3. `cd` with a path to a file:
 ```
 [user@sahara ~/lecture1]$ cd /home/lecture1/messages/en-us.txt
 bash: cd: /home/lecture1/messages/en-us.txt: Not a directory
