@@ -12,7 +12,7 @@ The output is not an error.
 
 2. `cd` with a path to a directory:
 ```
-[user@sahara ~]$ cd /home/lecture1/messages
+[user@sahara ~/lecture1]$ cd /home/lecture1/messages
 ```
 Working Directory: `lecture 1`  
 There is no output because the `cd` command does not ouput anything. The working directory was changed to messages because the argument for the change directory command was the path for the messages directory.  
