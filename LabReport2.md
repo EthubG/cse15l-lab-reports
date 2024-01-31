@@ -45,12 +45,14 @@ class ChatServer {
 ```
 
 Usage of `add-message`:
-![image one](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%209.38.23%20AM.png)
+![image one](Screen%20Shot%202024-01-30%20at%209.38.23%20AM.png)
+
 The `handleRequest` method gets called. The main method is also called. 
 The argument in the method is the url of the webserver stored as a URI. The field `str` in the class `Handler` is equivalent to `""` before the method is called. The main method is called to create the server. The argument given to the main method is the port number of the server. The port is stored as an int and is equivalent to `3000`.
 After the method is called, `str` is updated to `"Eguo: Hello\n"`. The port value is not changed.
 
-![image two](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%209.39.01%20AM.png)
+![image two](Screen%20Shot%202024-01-30%20at%209.39.01%20AM.png)
+
 The `handleRequest` method gets called. The main method is also called. 
 The argument in the method is the url of the webserver stored as a URI. The field `str` in the class `Handler` is equivalent to `"Eguo: Hello\n"` before the method is called. The main method is called to create the server. The argument given to the main method is the port number of the server. The port is stored as an int and is equivalent to `3000`.
 After the method is called, `str` is updated to `"Eguo: Hello\nCyun: Whatsup\n"`. The port value is not changed.
@@ -59,15 +61,15 @@ After the method is called, `str` is updated to `"Eguo: Hello\nCyun: Whatsup\n"`
 
 Absolute path for private key:
 
-![image three](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%205.17.57%20PM.png)
+![image three](Screen%20Shot%202024-01-30%20at%205.17.57%20PM.png)
 
 Absolute path for public key:
 
-![image four](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%205.18.14%20PM.png)
+![image four](Screen%20Shot%202024-01-30%20at%205.18.14%20PM.png)
 
 Logging into `ieng6` without being asked for a password:
 
-![image five](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%2010.13.09%20AM.png)
+![image five](Screen%20Shot%202024-01-30%20at%2010.13.09%20AM.png)
 
 ## Part 3
 
