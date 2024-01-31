@@ -58,12 +58,15 @@ After the method is called, `str` is updated to `"Eguo: Hello\nCyun: Whatsup\n"`
 ## Part 2
 
 Absolute path for private key:
+
 ![image three](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%205.17.57%20PM.png)
 
 Absolute path for public key:
+
 ![image four](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%205.18.14%20PM.png)
 
 Logging into `ieng6` without being asked for a password:
+
 ![image five](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%2010.13.09%20AM.png)
 
 ## Part 3
