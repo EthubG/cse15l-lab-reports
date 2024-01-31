@@ -8,8 +8,7 @@ import java.io.IOException;
 import java.net.URI;
 
 class Handler implements URLHandler {
-    // The one bit of state on the server: a number that will be manipulated by
-    // various requests.
+
     String str = "";
 
     public String handleRequest(URI url) {
@@ -47,12 +46,25 @@ class ChatServer {
 
 Usage of `add-message`:
 ![image one](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%209.38.23%20AM.png)
+The `handleRequest` method gets called.
+The argument in the method is the url of the webserver stored as a URI. The field `str` in the class `Handler` is equivalent to `""` before the method is called. 
+After the method is called, `str` is updated to `"Eguo: Hello\n"`.
 
 ![image two](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%209.39.01%20AM.png)
+The `handleRequest` method gets called.
+The argument in the method is the url of the webserver stored as a URI. The field `str` in the class `Handler` is equivalent to `"Eguo: Hello\n"` before the method is called.
+After the method is called, `str` is updated to `"Eguo: Hello\nCyun: Whatsup\n"`.
 
 ## Part 2
 
+Absolute path for private key:
+![image three](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%205.17.57%20PM.png)
 
+Absolute path for public key:
+![image four](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%205.18.14%20PM.png)
+
+Logging into `ieng6` without being asked for a password:
+![image five](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%2010.13.09%20AM.png)
 
 ## Part 3
 
