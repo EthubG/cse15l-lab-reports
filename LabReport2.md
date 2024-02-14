@@ -69,7 +69,7 @@ Absolute path for public key:
 
 Logging into `ieng6` without being asked for a password:
 
-![image five](Screen%20Shot%202024-01-30%20at%2010.13.09%20AM.png)
+![image five](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-01-30%20at%2010.13.09%20AM.png)
 
 ## Part 3
 
