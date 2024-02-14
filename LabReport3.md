@@ -23,7 +23,7 @@ public void badTestReversed() {
 ```
 
 3. The symptom, as the output of running the tests:
-![image one](Screen%20Shot%202024-02-13%20at%204.31.11%20PM.png)
+![image one](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%204.31.11%20PM.png)
 
 4. The bug:
 
@@ -53,7 +53,7 @@ Now the `newArray` array is updated and returned rather than the original array.
 
 `find` command-line options:
 
-1. `-newer`
+`-newer`
 
 Use 1:
 ```
@@ -78,9 +78,9 @@ Use 2:
 ```
 The `-newer` option searches for files that have been modified after the file that is given as an argument. This can be useful if you want to see which files were most recently modified or if you want to sort your files by modification time.
 
-Found at: [Source 1](https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/)
+Found at: [https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/](https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/)
 
-2. `-regex`
+`-regex`
 
 Use 1:
 ```
@@ -106,9 +106,9 @@ Use 2:
 ```
 The `-regex` option searches for files whose name starts with the provided argument. This can be useful if you know the beginning of the name of the file that you are searching for.
 
-Found at: [Source 2](https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/)
+Found at: [https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/](https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/)
 
-3. `-size`
+`-size`
 
 Use 1:
 ```
@@ -130,9 +130,9 @@ Use 2:
 ```
 The `-size` option searches for files that are equal to, greater than, or less than the specified size depending on the arguments given to it. This can be useful if you want to sort your files by size or are looking for small/big files.
 
-Found at: [Source 3](https://www.computerhope.com/unix/ufind.htm)
+Found at: [https://www.computerhope.com/unix/ufind.htm](https://www.computerhope.com/unix/ufind.htm)
 
-4. `-type`
+`-type`
 
 Use 1:
 ```
@@ -172,4 +172,4 @@ Use 2:
 ```
 The `-type` option searches for files that are of the specified type. This can be useful when you only want to view files of a specific type such as when we only wanted to look at text files in the lab.
 
-Found at: [Source 4](https://www.redhat.com/sysadmin/linux-find-command)
+Found at: [https://www.redhat.com/sysadmin/linux-find-command](https://www.redhat.com/sysadmin/linux-find-command)
