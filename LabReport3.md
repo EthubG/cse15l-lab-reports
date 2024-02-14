@@ -23,7 +23,7 @@ public void badTestReversed() {
 ```
 
 3. The symptom, as the output of running the tests:
-![image one](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-13%20at%204.31.11%20PM.png)
+![image one](Screen%20Shot%202024-02-13%20at%204.31.11%20PM.png)
 
 4. The bug:
 
