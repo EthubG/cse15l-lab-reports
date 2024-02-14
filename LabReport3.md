@@ -53,7 +53,7 @@ Now the `newArray` array is updated and returned rather than the original array.
 
 `find` command-line options:
 
-`-newer`
+Option 1: `-newer`
 
 Use 1:
 ```
@@ -80,7 +80,7 @@ The `-newer` option searches for files that have been modified after the file th
 
 Found at: [https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/](https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/)
 
-`-regex`
+Option 2: `-regex`
 
 Use 1:
 ```
@@ -108,7 +108,7 @@ The `-regex` option searches for files whose name starts with the provided argum
 
 Found at: [https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/](https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/)
 
-`-size`
+Option 3: `-size`
 
 Use 1:
 ```
@@ -132,7 +132,7 @@ The `-size` option searches for files that are equal to, greater than, or less t
 
 Found at: [https://www.computerhope.com/unix/ufind.htm](https://www.computerhope.com/unix/ufind.htm)
 
-`-type`
+Option 4: `-type`
 
 Use 1:
 ```
