@@ -61,11 +61,11 @@ After the method is called, `str` is updated to `"Eguo: Hello\nCyun: Whatsup\n"`
 
 Absolute path for private key:
 
-![image three](Screen%20Shot%202024-01-30%20at%205.17.57%20PM.png)
+![image three](Screen%20Shot%202024-02-13%20at%203.59.50%20PM.png)
 
 Absolute path for public key:
 
-![image four](Screen%20Shot%202024-01-30%20at%205.18.14%20PM.png)
+![image four](Screen%20Shot%202024-02-13%20at%203.58.59%20PM.png)
 
 Logging into `ieng6` without being asked for a password:
 
