@@ -36,7 +36,7 @@ Keys pressed: b a s h `<space>` t `<tab>` `<enter>`
 Summary: I ran the bash script that contains the code to compile and run the `ListExamplesTests.java` file. `<tab>` auto completes the name for the test.sh bash script.
 
 ## Step 9
-![image six](Screen%20Shot%202024-02-27%20at%205.31.18%20PM.png)
+![image six](https://github.com/EthubG/cse15l-lab-reports/blob/main/Screen%20Shot%202024-02-27%20at%205.31.18%20PM.png)
 
 Keys pressed: g i t `<space>` a d d `<space>` L `<tab>` `<enter>` g i t `<space>` c o m m i t `<enter>` i i n d e x 1 `<space>` e r r o r `<space>` f i x e d `<esc>` : w q ! `<enter>` g i t `<space>` p u s h `<enter>`
 
